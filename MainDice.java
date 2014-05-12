@@ -13,3 +13,5 @@ public class MainDice
 	}
 
 }
+
+// Please rework with TriDice and TrippleDice classes
